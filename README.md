@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Mary and I am a student in ATMS 523 at UIUC!
+🌱 My name is Mary and I am a student in ATMS 523 at UIUC! 🔭
 
-I am interested in learning more about how to use collaborative data analysis tools to create interesting projects and further my understanding of atmospheric science research and models. 
+I am interested in learning more about how to use collaborative data analysis tools to create interesting projects and further my understanding of atmospheric science research and models. ⚡
 
 
 
