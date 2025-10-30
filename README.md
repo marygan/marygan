@@ -1,24 +1,5 @@
 ### Hi there 👋
 
-🌱 My name is Mary and I am a Master's student at the University of Illinois
+🌱 My name is Mary and I am a graduate student at the University of Illinois at Urbana-Champaign in the Weather and Climate Risk and Data Analytics Master's Program. I also work full time in Emergency Management and disaster recovery specializing in community projects and grant funding delivery in response to flooding, hurricanes, pandemics, and wildfires. 
 
-I am interested in learning more about how to use collaborative data analysis tools to create interesting projects and further my understanding of atmospheric science research and models. ⚡
-
-
-
-<!--
-
-What are you interested in learning? What are you working on? What's your favorite hobby? 
-**marygan/marygan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research focuses on leveraging big data to build predictive disaster risk models that enhance community risk assessment and anticipate evolving safety needs.
